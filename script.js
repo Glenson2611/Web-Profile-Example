@@ -1,4 +1,4 @@
-const text = "Coming up...";
+const text = "Coming Soon...";
 const typedElem = document.getElementById("typed");
 let index = 0;
 
